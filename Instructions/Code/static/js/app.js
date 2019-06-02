@@ -23,9 +23,6 @@ submit.on("click", function(){
     //input elemnt
     var inputElement = d3.select("#datetime");
 
-    if (inputElement) {
-        
-    }
     //value property in input element
     var inputValue = inputElement.property('value');
     var filterData = tableData.filter(row => row.datetime === inputValue);
