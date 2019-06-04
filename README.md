@@ -9,4 +9,4 @@ A simple program to demostrate the ability to create a table dynamaically based 
   1. D3.js
   
   For the future:
-    1.  Will like to create more filters to search the table's data.
+  1. Will like to create more filters to search the table's data.
